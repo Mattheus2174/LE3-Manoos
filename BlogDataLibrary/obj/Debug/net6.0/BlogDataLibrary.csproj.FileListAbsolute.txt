@@ -1,0 +1,13 @@
+C:\Users\Matthew\source\repos\BlogDataLibrary\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\source\repos\BlogDataLibrary\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\BlogDataLibrary\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\BlogDataLibrary\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\BlogDataLibrary\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.sourcelink.json
+C:\Users\Matthew\source\repos\BlogDataLibrary\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.deps.json
+C:\Users\Matthew\source\repos\BlogDataLibrary\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.dll
+C:\Users\Matthew\source\repos\BlogDataLibrary\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.pdb
+C:\Users\Matthew\source\repos\BlogDataLibrary\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\BlogDataLibrary\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.dll
+C:\Users\Matthew\source\repos\BlogDataLibrary\BlogDataLibrary\obj\Debug\net6.0\refint\BlogDataLibrary.dll
+C:\Users\Matthew\source\repos\BlogDataLibrary\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.pdb
+C:\Users\Matthew\source\repos\BlogDataLibrary\BlogDataLibrary\obj\Debug\net6.0\ref\BlogDataLibrary.dll
