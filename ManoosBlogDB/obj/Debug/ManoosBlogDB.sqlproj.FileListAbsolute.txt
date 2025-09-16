@@ -1,0 +1,10 @@
+C:\Users\Matthew\source\repos\BlogDataLibrary\ManoosBlogDB\bin\Debug\ManoosBlogDB.dacpac
+C:\Users\Matthew\source\repos\BlogDataLibrary\ManoosBlogDB\bin\Debug\ManoosBlogDB.dll
+C:\Users\Matthew\source\repos\BlogDataLibrary\ManoosBlogDB\bin\Debug\ManoosBlogDB.pdb
+C:\Users\Matthew\source\repos\BlogDataLibrary\ManoosBlogDB\obj\Debug\ManoosBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\BlogDataLibrary\ManoosBlogDB\obj\Debug\ManoosBlogDB.dll
+C:\Users\Matthew\source\repos\BlogDataLibrary\ManoosBlogDB\obj\Debug\ManoosBlogDB.pdb
+C:\Users\Matthew\source\repos\BlogDataLibrary\ManoosBlogDB\obj\Debug\Model.xml
+C:\Users\Matthew\source\repos\BlogDataLibrary\ManoosBlogDB\obj\Debug\refactor.xml
+C:\Users\Matthew\source\repos\BlogDataLibrary\ManoosBlogDB\obj\Debug\postdeploy.sql
+C:\Users\Matthew\source\repos\BlogDataLibrary\ManoosBlogDB\obj\Debug\predeploy.sql
